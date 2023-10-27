@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Gene Gragg.
 
+- 🔭 I’m currently working on a project which I have, somewhat audaciously, called AAMA: Afroasiatic Morphological Archive --
+-   currently a collection of Cushitic and Omotic morphological verbal and pronominal paradigms, together with paradigm
+-   display and manipulation software (earlier version in Clojure, currently a more provisional version in Pythonl.
+
+
+- 📫 How to reach me: g-gragg@uchicago.edu
+
+  
 <!--
 **gbgg/gbgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
